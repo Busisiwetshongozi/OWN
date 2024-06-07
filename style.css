@@ -1,0 +1,25 @@
+body{}
+#quote{
+    font-size: 30px;
+   
+    color: blueviolet;
+    margin-top: 400px;
+}
+
+h1{
+    font-size: 40px;
+    margin-left: 200px;
+}
+.card{
+    
+    width: 700px;
+    height: 600px;
+    background-color: whitesmoke;
+   margin-left: 300px;
+   border-radius:10% ;
+}
+#btn{
+    height: 30px;
+    margin-top: 250px;
+    margin-left: 160px;
+}
